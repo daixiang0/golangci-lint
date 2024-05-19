@@ -9,7 +9,7 @@ require (
 	github.com/Abirdcfly/dupword v0.0.14
 	github.com/Antonboom/errname v0.1.13
 	github.com/Antonboom/nilnil v0.1.9
-	github.com/Antonboom/testifylint v1.2.0
+	github.com/Antonboom/testifylint v1.3.0
 	github.com/BurntSushi/toml v1.3.2
 	github.com/Crocmagnon/fatcontext v0.2.2
 	github.com/Djarvur/go-err113 v0.0.0-20210108212216-aea10b59be24
@@ -193,7 +193,6 @@ require (
 	golang.org/x/mod v0.17.0 // indirect
 	golang.org/x/sync v0.7.0 // indirect
 	golang.org/x/sys v0.20.0 // indirect
-	golang.org/x/text v0.15.0 // indirect
 	google.golang.org/protobuf v1.33.0 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
